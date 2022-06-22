@@ -1,0 +1,17 @@
+2xverse bridge 2xverse
+
+2xchorus extrachorus chorus
+2xtagChorus
+
+4xverse(on 4 start with 8 note pattern to get into chorus)
+
+2xchorus extrachorus chorus
+4xtagChorus
+
+softverse 2xsoftbridge
+arpeggiated() pattern finish with build up to chorus)
+
+chorus extrachorus(stop on the other chord) extrachorus chorus
+2xtagChorus (finish on the chord before last)
+
+Drop D tuning
